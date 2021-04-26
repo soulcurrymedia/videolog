@@ -1,0 +1,22 @@
+firstName: Mian # Write your first name here
+entries: # Scrapbook entries under here (2-space indent)
+  - title: succulents 
+    note: A bunch of beautiful plants at a small shop in Cagayan de Oro, 🇵🇭 # Optional: specify a note
+    src: images/succulents.png
+  - title: cat 
+    note: I have a cute cat that looks just like this one!
+    src: images/cool-cat-sticker-creation.png
+  - title: new york city
+    note: Some windows that I saw in the city!
+    src: images/windows.jpg
+  - title: coffee
+    note: You can never go wrong with an iced hazelnut coffee 😋
+    src: images/nathan-dumlao-tZ9-0iAmmX0-unsplash.jpg
+  - title: random photo
+    note: This is a random photo from Unsplash ✨
+    src: https://source.unsplash.com/random/
+  - title: t-shirts
+    note: Some of our shirts from our second year. SLO Hacks collected and donated over 150 t-shirts to Goodwill.
+    src: images/slo-hacks-shirts.jpg
+  - title: featured photo
+    src: https://source.unsplash.com/featured/daily
