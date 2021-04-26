@@ -19,13 +19,20 @@
       <!--  Place your Creative Kit for Web share button here -->
     </header>
     <main class="detail">
-      <img
+
+      <video
+        width="320"
+        height="240"
+        controls
         class="image"
         data-tilt
         data-tilt-full-page-listening
         data-tilt-max="5"
-        src="{{{src}}}"
-      />
+        >
+        <source src="{{{src}}}" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
+
       <p class="note">{{note}}</p>
     </main>
 
